@@ -1,4 +1,4 @@
-#Demondtração do uso de estrutura repetitiva. . . 
+#Demonstração do uso de estrutura repetitiva. . . 
 NUMERO = 1
 while NUMERO >= 0:
     print("Digite um número negativo para sair:")
